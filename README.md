@@ -6,4 +6,6 @@ evangelienbuch_ih_iz_instances.ods is the sheet file with all instances of the i
 
 csv_converter.py takes data from selected columns of the data sheet and outputs a csv file with them, it includes a filter function and a function to select from the first n rows of the sheet
 
+csv_files.zip are the csv files for input in the R script
+
 data_stats.R uses the generated csv files and performs the statistical tests and creates bar charts
